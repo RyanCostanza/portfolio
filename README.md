@@ -15,14 +15,14 @@ Data Analyst at Santa Barbara City College Baseball
 
 
 ### Projects
-Options Trading (Python)
--
+#### Options Trading (Python)
+- 
 
-Baseball Analytics (R)
--
+#### Baseball Analytics (R)
+- 
 
-Design and Analysis of Experiments (Python)
--
+#### Design and Analysis of Experiments (Python)
+- 
 
-Object oriented programming with data structures and software testing methodologies (Python)
--
+#### Object oriented programming with data structures and software testing methodologies (Python)
+- 
