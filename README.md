@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science
 
 ##### [Linkedin](https://www.linkedin.com/in/ryan-costanza-bb91a3239/)
 
@@ -15,18 +15,7 @@ Data Analyst at Santa Barbara City College Baseball
 
 
 ### Projects
-Options Trading
-- 
-- Skills: Python
 
-Baseball Analytics
-- 
-Skills: R
-
-Design and Analysis of Experiments
-- 
-- Skills: Python
-
-Object oriented programming with data structures and software testing methodologies
-- 
+[Data Structures](https://github.com/RyanCostanza/Data-Structures)
+- Object Oriented Programming with Data Structures and Software Testing Methodologies
 - Skills: Python
