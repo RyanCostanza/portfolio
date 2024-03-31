@@ -1,8 +1,8 @@
-# Data Science
+# Data Science/Analytics
 
 ##### [Linkedin](https://www.linkedin.com/in/ryan-costanza-bb91a3239/)
 
-#### Technical Skills: Python, R, SQL, Tableau, Stata
+#### Technical Skills: Python, R, SQL, Tableau
 
 ### Education
 Statistics and Data Science B.S. (Expected June 2025)
@@ -15,7 +15,6 @@ Data Analyst at Santa Barbara City College Baseball
 
 
 ### Projects
-
 [Data Structures](https://github.com/RyanCostanza/Data-Structures)
 - Object Oriented Programming with Data Structures and Software Testing Methodologies
 - Skills: Python
